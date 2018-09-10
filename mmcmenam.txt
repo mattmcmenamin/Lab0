@@ -1,0 +1,3 @@
+I have traveled to every continent.
+I can run a mile in 5 minutes.
+I am very bad at coding in C++.
